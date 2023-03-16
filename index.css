@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+.hiring {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  width: 95%;
+  height: 100vh;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* .formName>form{
+    display: flex;
+} */
+.formInput > form {
+  display: block;
+  margin-top: 20px;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  width: 55%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.homeForm {
+  display: block;
+  margin-top: 20px;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  width: 95%;
+  /* background-color: white;
+     */
+  background-image: url(https://images.ctfassets.net/4cd45et68cgf/R6Ff9yPjbZhIC6DoFvKGp/9fbb3e9b8d09ded2fdc4ca76e37d9b1d/NETFLIX-25_1920x1080_Streams-RGB__1_.jpg?w=2560);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.myNavbar {
+  position: fixed;
+  width: 100%;
+  background-color: gray;
+  
+}
+/* 
+.dark-mode {
+  background-color: black;
+  color: white;
+} */
+.body{
+  background-color: black;
+}
+#About{
+  display: block;
+  margin-top: 20px;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  width: 95%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.aboutCard{
+  /* display: inline; */
+  display: flex;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+ 
+  /* width: 100%; */
+
+}
+.date{
+  display: block;
+  margin-top: 20px;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  text-align: center;
+  width: 95%;
+  color: wheat;
+  background-color: rgb(127, 125, 125);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.hiringAbout>h3{
+  text-align: center;
+  color: rgb(9, 9, 9);
+  padding: 10px;
+  background-color: rgb(127, 125, 125);
+
+}
